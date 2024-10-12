@@ -85,7 +85,6 @@ ecos==2.0.14
 editdistance==0.8.1
 eerepr==0.0.4
 einops==0.8.0
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 et-xmlfile==1.1.0
 etils==1.9.4
@@ -111,8 +110,6 @@ fsspec==2024.6.1
 future==1.0.0
 gast==0.6.0
 gcsfs==2024.6.1
-GDAL==3.6.4
-gdown==5.2.0
 geemap==0.34.5
 gensim==4.3.3
 geocoder==1.38.1
