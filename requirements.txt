@@ -295,8 +295,6 @@ PyOpenGL==3.1.7
 pyOpenSSL==24.2.1
 pyparsing==3.1.4
 pyperclip==1.9.0
-pyproj==3.7.0
-pyproject_hooks==1.2.0
 pyshp==2.3.1
 PySocks==1.7.1
 pytensor==2.25.5
@@ -390,8 +388,6 @@ threadpoolctl==3.5.0
 tifffile==2024.9.20
 tinycss2==1.3.0
 tokenizers==0.19.1
-toml==0.10.2
-tomli==2.0.2
 toolz==0.12.1
 tornado==6.3.3
 tqdm==4.66.5
