@@ -18,7 +18,8 @@ def predict(model, input_data):
 # Fungsi utama dashboard
 def main():
     # Judul dashboard
-    st.title('Prediksi Dropout Mahasiswa')
+    st.title('Jaya Jaya Institute')
+    st.header('Prediksi Dropout Mahasiswa')
 
     # Deskripsi dan informasi input data
     st.header('Masukkan Data untuk Prediksi')
