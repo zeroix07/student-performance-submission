@@ -47,7 +47,7 @@ Apabila menginstal Python melalui Anaconda ataupun miniconda, Anda dapat menggun
 6. Masukkan data yang ingin diprediksi pada variabel X_new
 7. Tekan tombol run code
 8. Hasil prediksi akan keluar
-9. Bisa juga dengan mengakses link streamlit ini: https://belajar-penerapan-data-science-submission-2.streamlit.app/
+9. Bisa juga dengan mengakses link streamlit ini: https://submission-jaya-institute.streamlit.app/
 
 ## Business Dashboard
 Dashboard bisnis ini dibuat untuk memberikan prediksi terkait kemungkinan seorang mahasiswa akan melakukan dropout di Jaya Jaya Institut. Dashboard ini memanfaatkan model machine learning yang telah dilatih untuk melakukan prediksi berdasarkan data masukan yang diberikan.
