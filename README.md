@@ -62,7 +62,7 @@ Dropout mahasiswa di Jaya Jaya Institut dipengaruhi oleh berbagai faktor yang da
 ### Rekomendasi Action Items
 Berikut adalah rekomendasi yang dapat dilakukan Jaya Jaya Institut untuk mengurangi tingkat dropout:
 
-1. Tawarkan bimbingan belajar tambahan dan dukungan akademik bagi mahasiswa yang mengambil mata kuliah manajemen malam hari dan teknik informatika, karena mereka memiliki tingkat dropout yang tinggi.
+1. Tawarkan bimbingan belajar tambahan dan dukungan akademik bagi mahasiswa yang mengambil mata kuliah Animation and Multimedia Design malam hari dan Equinculture, karena mereka memiliki tingkat dropout yang tinggi.
 
 2. Implementasikan program remedial untuk membantu mahasiswa dengan admission grade rendah agar dapat mengejar ketinggalan dan meningkatkan prestasi akademik mereka.
 
@@ -79,7 +79,3 @@ Berikut adalah rekomendasi yang dapat dilakukan Jaya Jaya Institut untuk mengura
 8. Promosikan program-program yang membantu mahasiswa mencapai keseimbangan antara kehidupan akademik dan pribadi, seperti kegiatan ekstrakurikuler dan layanan kesehatan mental.
 
 9. Libatkan orang tua dalam proses pendidikan mahasiswa melalui komunikasi rutin dan program sosialisasi yang meningkatkan dukungan keluarga.
-
-## Email dan password Metabase
-Email: root@mail.com
-Password: root123
